@@ -1,0 +1,17 @@
+{
+    "name": "alik/hackers-poulette",
+    "autoload": {
+        "psr-4": {
+            "Alik\\HackersPoulette\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ali Khalife",
+            "email": "alikhalife05@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*"
+    }
+}

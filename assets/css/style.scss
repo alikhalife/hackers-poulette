@@ -1,6 +1,20 @@
 body {
   background-color: #0d8187;
 }
+
+h2 {
+  text-align: center;
+}
+
+/* Style image to center it */
+img {
+  width: 163px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 /* Style inputs, select elements and textareas */
 input[type=text], select, textarea{
   width: 100%;
@@ -14,7 +28,6 @@ input[type=text], select, textarea{
 /* Style the label to display next to the inputs */
 label {
   padding: 12px 12px 12px 0;
- 
 }
 
 /* Style the submit button */
